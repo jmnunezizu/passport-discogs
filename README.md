@@ -1,4 +1,4 @@
-# Passport-Meetup
+# Passport-Discogs
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Discogs](http://www.discogs.com/)
 using the OAuth 1.0a API.
